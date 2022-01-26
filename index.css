@@ -1,0 +1,43 @@
+.base1{
+    color: rgb(243, 199, 142);
+    /* justify-content: space-between; */
+}
+span{
+    color: black;
+}
+/* .classwork4{
+    margin-right: 20%;
+    margin-bottom: 40%;
+    margin-top: 20%;
+    background-image: url(./images/bg-pattern-desktop.svg);
+} */
+.button{
+    color: white;
+    border-radius: 30px;
+    background-color: rgb(243, 199, 142);
+    right: 20px;
+    position: relative;
+    border: none;
+    height: 26px;
+    width: 35px;
+    text-align: center;
+}
+.email{
+    border: solid rgb(243, 199, 142) 2px;
+    color: rgb(243, 199, 142);
+    border-radius: 30px;
+    width: 250px;
+    height: 20px;
+    
+}
+.sbt{
+    display: flex;
+    justify-content: space-between;
+    background-image: url(./images/bg-pattern-desktop.svg);
+    background-color: rgb(243, 199, 142);
+    margin: 80px;
+}
+#svelte{
+    padding-top: 25px;
+    padding-left: 100px;
+}
